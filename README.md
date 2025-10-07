@@ -1,6 +1,6 @@
 # cgm-icon
 
-![screen](https://github.com/jgafnea/glucotray/assets/84107636/dcd92bf6-a483-4ba3-9c54-caa7b60b7159)
+![screen](assets/screenshot.png)
 
 Displays CGM reading in system tray.
 
